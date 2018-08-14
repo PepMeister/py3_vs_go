@@ -65,9 +65,7 @@ extern "C" {
 #endif
 
 
-extern void small_arr_sorting();
-
-extern void big_arr_sorting(GoInt p0);
+extern void arr_sorting(GoInt p0);
 
 #ifdef __cplusplus
 }
